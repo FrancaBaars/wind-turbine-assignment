@@ -1,7 +1,7 @@
 # Wind Turbine
 
 ```text
-Franca Baars 5005167
+Franca Baars
 ```
 
 ## Requirements
