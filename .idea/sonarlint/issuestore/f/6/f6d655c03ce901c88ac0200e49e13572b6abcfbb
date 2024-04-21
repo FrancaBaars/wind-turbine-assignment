@@ -1,0 +1,6 @@
+
+©
+java:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ÝüÕÒJ$1ef3397f-ab57-436c-93af-32089aff4d84
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šƒ±šJ$c6bfde43-78ef-424d-afb2-4fd717bd8326
+‘
+java:S6201-"PReplace this instanceof check and cast with 'instanceof Displayable displayable'(š§ôâþÿÿÿÿJ$93d7f582-42a6-4547-bd6a-6f6b7394ae74
